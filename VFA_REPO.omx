@@ -1,9 +1,15 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
   <uuid>f1ffe813-09a8-4237-b3b1-88378b0ef7bd</uuid>
-  <title>New Repository</title>
+  <title>VFA-136 Knighthawks Official Mods (Saved Games)</title>
   <downpath>mods/saved_games/</downpath>
   <references count="0">
-    <mod ident="MPD_Textures" file="MPD_Textures.ozp" bytes="8129149" xxhsum="d96a42df9dc9ba2f" category="Skin" />
+    <mod ident="Civil_Aircraft_Mod_v0.87" file="Civil_Aircraft_Mod_v0.87.ozp" bytes="899871456" xxhsum="d72763271597a8c3" category="Module" />
+    <mod ident="ECHO19_FA18_Sounds_v1.5.0" file="ECHO19_FA18_Sounds_v1.5.0.ozp" bytes="317097071" xxhsum="9c50009fc741ecad" category="Audio" />
+    <mod ident="Military_Aircraft_Mod_v1.7.1" file="Military_Aircraft_Mod_v1.7.1.ozp" bytes="188330638" xxhsum="cf9f313686e736af" category="Module" />
+    <mod ident="MPD_Textures_v2.1.55" file="MPD_Textures_v2.1.55.ozp" bytes="8129406" xxhsum="ea9b2043d89a1023" category="Liveries" />
+    <mod ident="UH60L_v2.1.5" file="UH60L_v2.1.5.ozp" bytes="1494596543" xxhsum="b4826650f26cf4b3" category="Module" />
+    <mod ident="VFA-106_Gladiators_Liveries_v1.0" file="VFA-106_Gladiators_Liveries_v1.0.ozp" bytes="693317427" xxhsum="31b35fc58d88ad5e" category="Liveries" />
+    <mod ident="VFA-136_Knighthawks_Liveries_v1.0" file="VFA-136_Knighthawks_Liveries_v1.0.ozp" bytes="878371910" xxhsum="fbcb9e3c9d1cec82" category="Liveries" />
   </references>
 </Open_Mod_Manager_Repository>
