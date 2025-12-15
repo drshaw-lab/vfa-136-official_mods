@@ -2,7 +2,7 @@
 <Open_Mod_Manager_Repository>
   <uuid>f1ffe813-09a8-4237-b3b1-88378b0ef7bd</uuid>
   <title>New Repository</title>
-  <downpath></downpath>
+  <downpath>asdf</downpath>
   <references count="0">
     <mod ident="MPD_Textures" file="MPD_Textures.ozp" bytes="8129149" xxhsum="d96a42df9dc9ba2f" category="Skin" />
   </references>
