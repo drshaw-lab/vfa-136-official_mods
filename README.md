@@ -8,7 +8,9 @@ Here is the guide to configure your OMM to use the repository.
 
 ## Installation Steps
 
-### Step 1 - Install or update OpenModManager to the latest version (v1.3.4 is required). Available [here](https://github.com/iquercorb/OpenModMan)
+### Step 1 - Install or update OpenModManager to the latest version (v1.3.4 is required). 
+
+#### Available [here](https://github.com/iquercorb/OpenModMan)
 
 ### Step 2 - Depending on your installation location for DCS, you will probably need to run OMM as Administrator
 
