@@ -1,6 +1,6 @@
 # VFA-136 Knighthawks Official DCS Mod Repository for OpenModManager (OMM)
 
->Document version 1.0 (Updated: 2025-12-24)
+>Document version 1.0 (Updated: 2026-10-12)
 
 ## Introduction
 
@@ -49,10 +49,11 @@ Copy from the table below to populate the fields in the wizard.
 
 | **Base address** | **Name** |
 | --------------------------------------------------- | ------------------ |
-| https://pub-fd678eb1e0ca4f9b95be99c017a9b597.r2.dev/ | SavedGames |
-| https://pub-fd678eb1e0ca4f9b95be99c017a9b597.r2.dev/ | Root |
+| https://repo.vfa136knighthawks.com/ | SavedGames |
+| https://repo.vfa136knighthawks.com/ | Root |
 
-**!Important** Make sure you create the "Network library" for each "Channel"
+**!Important** Make sure you create the "Network library" for each "Channel" 
+(1 for SavedGames and 1 for Root)
 
 ### Step 6 - Refresh the "Network library" for each "Channel
 
